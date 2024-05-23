@@ -14,13 +14,16 @@
     "clsx": "^2.1.0",
     "lucide-react": "^0.367.0",
     "next": "14.1.4",
+    "next-auth": "^4.24.7",
     "react": "^18",
     "react-dom": "^18",
+    "react-toastify": "^10.0.5",
     "tailwind-merge": "^2.2.2",
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
+    "daisyui": "^4.11.1",
     "eslint": "^8",
     "eslint-config-next": "14.1.4",
     "postcss": "^8",
